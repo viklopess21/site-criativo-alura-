@@ -1,2 +1,2 @@
 # site-criativo-alura-
-https://vscode.dev/?vscode-lang=pt-pt
+https://vscode.dev/?vscode-lang=pt-br
